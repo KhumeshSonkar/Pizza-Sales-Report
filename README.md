@@ -22,8 +22,7 @@ The project includes:
 - PPT presentation with visual breakdown of each insight
 
 ## 📎 Resources:
-- 📊 [Project Presentation (PPT)](link-to-your-ppt-if-hosted-online)
-- 💼 [LinkedIn Post](https://www.linkedin.com/in/your-profile/) *(optional)*
+- 💼 [LinkedIn Post](https://www.linkedin.com/in/khumeshsonkar2003/)) 
 
 ---
 
